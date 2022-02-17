@@ -1,0 +1,9 @@
+{
+	"version":1,
+	"partitions":
+		[
+			{"topic":"test3","partition":0,"replicas":[1],"log_dirs":["any"]},
+			{"topic":"test3","partition":1,"replicas":[1],"log_dirs":["any"]},
+			{"topic":"test3","partition":2,"replicas":[0],"log_dirs":["any"]}
+		]
+}
